@@ -14,7 +14,7 @@
                 <hr class="my-4">
 
 
-                <a href="#">About</a>
+                <a href="/about">About</a>
 
 
             </div>
